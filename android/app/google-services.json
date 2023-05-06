@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536027301005",
+    "project_id": "eventplanning-48aff",
+    "storage_bucket": "eventplanning-48aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536027301005:android:ae6955d85553fd88a24ec4",
+        "android_client_info": {
+          "package_name": "com.Andromeda.event_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536027301005-88ls1gq3g2mhh88qfvsciq7c4khjhd5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Andromeda.event_management",
+            "certificate_hash": "f8f1a4fed44212ad32cf22e4a76b089e85f81d18"
+          }
+        },
+        {
+          "client_id": "536027301005-ikpjer4f7vn5l3avbjpvjaapd2mi1g80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY08HapqhFQgYAZFi18lpjSrStaKA5T0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536027301005-ikpjer4f7vn5l3avbjpvjaapd2mi1g80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
